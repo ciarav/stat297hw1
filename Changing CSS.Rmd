@@ -2,9 +2,9 @@
 title: "Homework One"
 output:
   html_document:
-    theme: simplex
+    theme: paper
     # “default”, “cerulean”, “journal”, “flatly”, “readable”, “spacelab”, “united”, “cosmo”, “lumen”, “paper”, “sandstone”, “simplex”, “yeti”
-    highlight: haddock
+    highlight: tango # “default”, “tango”, “pygments”, “kate”, “monochrome”, “espresso”, “zenburn”, “haddock”, “textmate”
     toc: true
     toc_depth: 2
     toc_float: true
@@ -32,7 +32,7 @@ A picture of your choice (preferably of yourself). Make sure to include a captio
 
 A paragraph describing your favorite hobby as well as one interesting fact about yourself.
 
-Your favorite quote in blockquote format and be sure to reference your quote using BibTex.
+Your favorite quote in blockquote format and be sure to reference your quote using BibTex.   
 
 A table having two columns (first column containing the classes you are following this semester; second column containing the time of these classes).
 
